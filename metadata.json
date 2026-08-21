@@ -1,0 +1,6 @@
+{
+  "name": "Academic Portfolio",
+  "description": "A professional portfolio website for a university professor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
